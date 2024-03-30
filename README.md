@@ -12,5 +12,8 @@ After joining the DAO, users can make and submit proposals, vote on proposals an
 Users can also see the whole list of other joined users, their ENS names and ENS avatars 
 
 
+contract address deployed on arbitrum Sepolia
+https://sepolia.arbiscan.io/address/0x969a73fbda3bf103a154aeff65d1143496a8a1b2
+
 
 
